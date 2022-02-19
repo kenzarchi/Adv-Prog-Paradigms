@@ -1,1 +1,1 @@
-# Adv-Prog-Paradisgms
+# Adv-Prog-Paradigms
