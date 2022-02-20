@@ -3,7 +3,7 @@ Cloud Drive Protocol
  
 Inspired by Google Drive (GDrive), we developed a Cloud Drive that allows the user to have his/her files automatically backed up on the cloud and synchronized across several devices. 
  
-#Download
+# Download
  
 If the client wants to download a file, then the header will be as the following:
  
