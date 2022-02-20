@@ -1,4 +1,4 @@
-# Adv-Prog-Paradigms
+# Adv-Prog-Paradigms-hwk1
 Cloud Drive Protocol
  
 Inspired by Google Drive (GDrive), we developed a Cloud Drive that allows the user to have his/her files automatically backed up on the cloud and synchronized across several devices. 
