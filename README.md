@@ -40,7 +40,7 @@ OK[one space][END][one space][Line Feed]
 Note: The current version of list function in this protocol doesn't support file names with spaces, an updated version that supports filenames with spaces will be available soon 
 
  
-#Backup
+# Backup
 If the client wants to perform a backup of his local repository to  the server:
  This operation is based on the previous C/S communications (local-list and upload) : first we list all the locally stored files and then we make an upload for each local file based on the  upload function that we already have.
 
